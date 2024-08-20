@@ -62,7 +62,7 @@ if (isset($_GET['sms'])) {
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://res.cloudinary.com/da5p4ntca/image/upload/v1723773407/id_unsjsc.png" />
   <link rel="canonical" href="<?php echo $urlPath ?>" />
-  <link rel="amphtml" href="https://id.potatoto.net/brand/2/?amp=<?php echo $BRAND; ?>" />
+  <link rel="amphtml" href="https://id.potatoto.net/brand/4/?amp=<?php echo $BRAND; ?>" />
 
   <link rel="preload" href="https://i.pinimg.com/564x/b3/1e/fa/b31efac62e57af916270bbbad50d8a83.jpg" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
